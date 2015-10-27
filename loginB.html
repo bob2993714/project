@@ -1,0 +1,30 @@
+﻿<!DCOTYPE HTML>
+<h1>商家登入</h1>
+<html>
+<body style="text-align:center; background-image: url(back.jpg);   background-repeat:no-repeat; "> 
+<script>
+function check(){
+      var x=document.forms['form']['account'].value;
+	  var y=document.forms['form']['password'].value;
+       if(x == null || x == ""){
+	   alert("account is not empty");
+	   return false;}
+	   if(y == null || y == ""){
+	   alert("password is not empty");
+       return false;}
+	   }
+</script>
+
+<form name="form" method="POST" action="checkpwdB.php" onSubmit="check()">
+    <p>帳號:
+  <input name="account" type="text"></input><br>
+      密碼: <input name="password" type="password"></input><br>
+      <a href="main.html" target="_top">首頁</a>
+      <a href="registerB.html">商家註冊</a>
+      <input type="submit" value="送出" >
+      </a>
+    </p>
+</form>
+
+</body>
+</html>

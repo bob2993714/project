@@ -1,0 +1,10 @@
+1,"First Test","Cooltey Feng",1,"<p><img alt="""" src=""http://localhost/IMpeen/cpsub/upload/20150507092710148.jpg"" style=""height:768px; width:1024px"" />Test for this new system</p>
+",20150507092710148.jpg,3.jpg,"2014-06-09 17:10:01",127.0.0.1,22
+2,test!!,test,0,"<p>test!!</p>
+",,,"2014-06-09 17:49:17",127.0.0.1,3
+3,"<br /><b>Notice</b>:  Undefined index: article_title in <b>C:\xampp\htdocs\cpsub\admin\article_add.php</b> on line <b>37</b><br />","<br /><b>Notice</b>:  Undefined index: article_author in <b>C:\xampp\htdocs\cpsub\admin\article_add.php</b> on line <b>43</b><br />",0,"<p><br />
+<strong>Notice</strong>: Undefined index: article_content in <strong>C:\xampp\htdocs\cpsub\admin\article_add.php</strong> on line <strong>76</strong></p>
+",,,"2015-05-07 08:25:37",::1,2
+4,"<br /><b>Notice</b>:  Undefined index: article_title in <b>C:\xampp\htdocs\IMpeen\cpsub\admin\article_add.php</b> on line <b>37</b><br />","<br /><b>Notice</b>:  Undefined index: article_author in <b>C:\xampp\htdocs\IMpeen\cpsub\admin\article_add.php</b> on line <b>43</b><br />",0,"<p><img alt="""" src=""http://localhost/IMpeen/cpsub/upload/20150507092710148.jpg"" style=""height:270px; width:360px"" /><br />
+Notice: Undefined index: article_content in C:\xampp\htdocs\IMpeen\cpsub\admin\article_add.php on line 76</p>
+",20150507093607560.txt,123.txt,"2015-05-07 09:17:49",127.0.0.1,2
